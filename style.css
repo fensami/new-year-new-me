@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.btn-primary{
+    padding: 20px 25px;
+    border-radius: 5px;
+    border: 0;
+    color: #005FAC;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.banner{
+    padding: 20px;
+    background-image: url(images/banner/banner3.png);
+    background-repeat: no-repeat;
+    height: 900px;
+    text-align: end;
+    text-align: justify right;
+    
+    
+}
+.title{
+    margin-top: 315px;
+    margin-right: 100px;
+    /* margin: 215px 215px; */
+    /* margin-bottom: 24px; */
+}
+.banner-paragraph{
+    margin-bottom: 24px;
+    margin-right: 100px;
+    font-weight: 400;
+    font-size: 16px;
+}
+.banner .btn-primary{
+    margin-right: 100px;
+}
+
+
+/* my failure style */
+.my-failure{
+    display: flex;
+}
