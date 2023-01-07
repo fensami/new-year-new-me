@@ -141,4 +141,24 @@ p{
 
 /* footer style */
 
+footer{
+    display: flex;
+    gap: 100px;
+    background: #151414;
+    text-align: justify;
+}
+.future{
 
+    padding:130px 0 0 120px;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 16px;
+}
+.future-paragraph{
+    padding-left: 120px;
+    margin-bottom: 24px;
+}
+.icons{
+    margin-top: 32px;
+    padding-left: 120px;
+}
